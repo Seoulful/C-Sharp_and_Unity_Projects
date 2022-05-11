@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "While_Statement_Assignment/1.0.0": {
+        "runtime": {
+          "While_Statement_Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "While_Statement_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
