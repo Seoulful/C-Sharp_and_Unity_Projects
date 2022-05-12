@@ -1,0 +1,14 @@
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\bin\Debug\netcoreapp3.1\Arrays_Assignment.exe
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\bin\Debug\netcoreapp3.1\Arrays_Assignment.deps.json
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\bin\Debug\netcoreapp3.1\Arrays_Assignment.runtimeconfig.json
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\bin\Debug\netcoreapp3.1\Arrays_Assignment.runtimeconfig.dev.json
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\bin\Debug\netcoreapp3.1\Arrays_Assignment.dll
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\bin\Debug\netcoreapp3.1\Arrays_Assignment.pdb
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\obj\Debug\netcoreapp3.1\Arrays_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\obj\Debug\netcoreapp3.1\Arrays_Assignment.AssemblyInfoInputs.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\obj\Debug\netcoreapp3.1\Arrays_Assignment.AssemblyInfo.cs
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\obj\Debug\netcoreapp3.1\Arrays_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\obj\Debug\netcoreapp3.1\Arrays_Assignment.dll
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\obj\Debug\netcoreapp3.1\Arrays_Assignment.pdb
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\obj\Debug\netcoreapp3.1\Arrays_Assignment.genruntimeconfig.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\Arrays_Assignment\obj\Debug\netcoreapp3.1\Arrays_Assignment.csproj.AssemblyReference.cache
