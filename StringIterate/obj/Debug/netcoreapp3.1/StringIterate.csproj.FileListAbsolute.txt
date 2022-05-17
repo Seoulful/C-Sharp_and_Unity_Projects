@@ -1,0 +1,14 @@
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\bin\Debug\netcoreapp3.1\StringIterate.exe
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\bin\Debug\netcoreapp3.1\StringIterate.deps.json
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\bin\Debug\netcoreapp3.1\StringIterate.runtimeconfig.json
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\bin\Debug\netcoreapp3.1\StringIterate.runtimeconfig.dev.json
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\bin\Debug\netcoreapp3.1\StringIterate.dll
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\bin\Debug\netcoreapp3.1\StringIterate.pdb
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\obj\Debug\netcoreapp3.1\StringIterate.csproj.AssemblyReference.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\obj\Debug\netcoreapp3.1\StringIterate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\obj\Debug\netcoreapp3.1\StringIterate.AssemblyInfoInputs.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\obj\Debug\netcoreapp3.1\StringIterate.AssemblyInfo.cs
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\obj\Debug\netcoreapp3.1\StringIterate.csproj.CoreCompileInputs.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\obj\Debug\netcoreapp3.1\StringIterate.dll
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\obj\Debug\netcoreapp3.1\StringIterate.pdb
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\StringIterate\obj\Debug\netcoreapp3.1\StringIterate.genruntimeconfig.cache
