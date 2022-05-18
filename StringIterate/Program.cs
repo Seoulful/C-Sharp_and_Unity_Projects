@@ -7,15 +7,15 @@ namespace StringIterate
     {
         static void Main(string[] args)
         {
+            //Part 1
             string[] stringArray = { "Hello", "Hi", "Goodbye", "Farewell" };
 
             Console.WriteLine("Please input your name.");
             string name = Console.ReadLine();
 
-            //Part 1
             for (int i = 0; i < stringArray.Length; i++)
             {
-                Console.WriteLine(stringArray[i] + " " + name);
+                stringArray[i] = stringArray[i] + " " + name;
             }
 
             for (int x = 0; x < stringArray.Length; x++)
@@ -66,25 +66,24 @@ namespace StringIterate
 
             //Part 5
             List<string> stringListIdentical = new List<string>();
-            stringListIdentical.Add("Google");
             stringListIdentical.Add("Microsoft");
+            stringListIdentical.Add("Google");
             stringListIdentical.Add("Google");
             stringListIdentical.Add("Apple");
 
             Console.WriteLine("Please select a tech company.");
             string userTech = Console.ReadLine();
-            int techIndex = stringListIdentical.IndexOf(userTech);
 
             for (int i = 0; i < stringListIdentical.Count; i++)
             {
-                if (userTech == stringListIdentical[i])
+                if (stringListIdentical[i] == userTech)
                 {
-                    Console.WriteLine(techIndex);
+                    Console.WriteLine("Match found at index " + i);
                 }
-                else if (!stringListIdentical.Contains(userTech))
-                {
-                    Console.WriteLine("That tech company is not in our index.");
-                }
+            }
+            if (!stringListIdentical.Contains(userTech))
+            {
+                Console.WriteLine("Match not found for item " + userTech);
             }
 
             //Part 6
@@ -93,10 +92,15 @@ namespace StringIterate
             stringListForeach.Add("Mercedes");
             stringListForeach.Add("BMW");
             stringListForeach.Add("Audi");
-
+            List<string> duplicateCars = new List<string>();
+            
             foreach (string car in stringListForeach)
             {
-                Console.WriteLine(car);
+                if (duplicateCars.Contains(car))
+                {
+                    Console.WriteLine(car + " has appeared before.");
+                }
+                duplicateCars.Add(car);
             }
         }
     }
