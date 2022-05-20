@@ -12,10 +12,12 @@ namespace CallingMethods_Assignment
         {
             Console.WriteLine("Please input an integer.");
             int input = Convert.ToInt32(Console.ReadLine());
+            var result = new Methods();
 
-            Methods.Method1(input);
-            Methods.Method2(input);
-            Methods.Method3(input);
+            Console.WriteLine("Your number multiplied by 2 is: " + result.Method1(input));
+            Console.WriteLine("Your number added by 2 is: " + result.Method2(input));
+            Console.WriteLine("Your number divided by 2 is: " + result.Method3(input));
+
             Console.ReadLine();
         }
     }
