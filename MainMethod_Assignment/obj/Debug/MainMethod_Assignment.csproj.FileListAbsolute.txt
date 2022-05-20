@@ -1,0 +1,7 @@
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MainMethod_Assignment\bin\Debug\MainMethod_Assignment.exe.config
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MainMethod_Assignment\bin\Debug\MainMethod_Assignment.exe
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MainMethod_Assignment\bin\Debug\MainMethod_Assignment.pdb
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MainMethod_Assignment\obj\Debug\MainMethod_Assignment.csproj.AssemblyReference.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MainMethod_Assignment\obj\Debug\MainMethod_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MainMethod_Assignment\obj\Debug\MainMethod_Assignment.exe
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MainMethod_Assignment\obj\Debug\MainMethod_Assignment.pdb
