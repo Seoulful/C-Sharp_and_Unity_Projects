@@ -1,0 +1,7 @@
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MethodClass_Assignment\bin\Debug\MethodClass_Assignment.exe.config
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MethodClass_Assignment\bin\Debug\MethodClass_Assignment.exe
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MethodClass_Assignment\bin\Debug\MethodClass_Assignment.pdb
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MethodClass_Assignment\obj\Debug\MethodClass_Assignment.csproj.AssemblyReference.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MethodClass_Assignment\obj\Debug\MethodClass_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MethodClass_Assignment\obj\Debug\MethodClass_Assignment.exe
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\MethodClass_Assignment\obj\Debug\MethodClass_Assignment.pdb
