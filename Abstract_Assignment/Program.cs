@@ -14,6 +14,10 @@ namespace Abstract_Assignment
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
+
+            IQuittable employeeQuit = new Employee();
+            employee.Quit(employee);
+
             Console.ReadLine();
         }
     }
