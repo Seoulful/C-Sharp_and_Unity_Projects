@@ -18,6 +18,15 @@ namespace Abstract_Assignment
             IQuittable employeeQuit = new Employee();
             employee.Quit(employee);
 
+            Employee employee1 = new Employee();
+            employee1.ID = 0001;
+
+            Employee employee2 = new Employee();
+            employee2.ID = 0001;
+
+            bool compare = employee1 == employee2;
+            Console.WriteLine(compare);
+
             Console.ReadLine();
         }
     }
