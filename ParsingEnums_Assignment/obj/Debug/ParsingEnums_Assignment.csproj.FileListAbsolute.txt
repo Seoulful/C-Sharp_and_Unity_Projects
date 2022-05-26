@@ -1,0 +1,7 @@
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\ParsingEnums_Assignment\obj\Debug\ParsingEnums_Assignment.csproj.AssemblyReference.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\ParsingEnums_Assignment\obj\Debug\ParsingEnums_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\ParsingEnums_Assignment\bin\Debug\ParsingEnums_Assignment.exe.config
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\ParsingEnums_Assignment\bin\Debug\ParsingEnums_Assignment.exe
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\ParsingEnums_Assignment\bin\Debug\ParsingEnums_Assignment.pdb
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\ParsingEnums_Assignment\obj\Debug\ParsingEnums_Assignment.exe
+C:\Users\Glenn\source\repos\C-Sharp_and_Unity_Projects\ParsingEnums_Assignment\obj\Debug\ParsingEnums_Assignment.pdb
